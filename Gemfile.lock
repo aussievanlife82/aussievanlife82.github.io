@@ -276,6 +276,8 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
   minima
   tzinfo
   tzinfo-data
