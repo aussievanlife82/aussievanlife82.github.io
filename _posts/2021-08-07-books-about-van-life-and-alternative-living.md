@@ -12,6 +12,8 @@ categories:
 Here are a list of books I have read or listened to on audible about van life and
 alternative living.
 
+{% include youtube-player.html id="sFdTEP8eUyU" title="Books About Van Life And Alternative Living" %} 
+
 
 {% include book-cards.html limit=1000 %}
 
