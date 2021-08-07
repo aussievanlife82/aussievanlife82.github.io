@@ -16,10 +16,10 @@
                     {% endif %}
                     <div class="text-center">
                         {% if resource.website %}
-                        <a href="{{ resource.website }}" class="btn btn-primary" target="_blank">Website</a>
+                            {% include bootstrap-button.html type="primary" text="YouTube" link=resource.website new-window=true %}
                         {% endif %}
                         {% if resource.youtube %}
-                        <a href="{{ resource.youtube }}" class="btn btn-danger" target="_blank">YouTube</a>
+                            {% include bootstrap-button.html type="danger" text="YouTube" link=resource.youtube new-window=true %}
                         {% endif %}
                     </div>
                 </div>

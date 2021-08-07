@@ -16,10 +16,10 @@
                     {% endif %}
                     <div class="text-center">
                         {% if book.link %}
-                        <a href="{{ book.link }}" class="btn btn-primary" target="_blank">Get On Amazon</a>
+                            {% include bootstrap-button.html type="primary" text="Get On Amazon" link=book.link new-window=true %}
                         {% endif %}
                         {% if book.review-link %}
-                        <a href="{{ book.review-link }}" class="btn btn-warning" target="_blank">My Review</a>
+                            {% include bootstrap-button.html type="warning" text="My Review" link=book.review-link new-window=true %}
                         {% endif %}
                     </div>
                 </div>
