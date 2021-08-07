@@ -4,6 +4,7 @@ youtubeId: W6QOIMRvTIU
 permalink: /moving-out-to-become-a-full-time-van-dweller/
 title: "Moving Out To Become A Full Time Van Dweller"
 date: "2018-09-30"
+comments: true
 categories: 
   - "van-life"
 ---

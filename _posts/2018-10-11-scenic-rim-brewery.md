@@ -4,8 +4,10 @@ youtubeId: H3sNBRsHG6I
 permalink: /scenic-rim-brewery/
 title: "Scenic Rim Brewery"
 date: "2018-10-11"
+comments: true
 categories: 
   - "places-to-visit"
+  - "van-life"
 ---
 
 This is a review of my visit at the Scenic Rim Brewery. It's a nice place to relax and have a few craft beers made onsite in small batches for your enjoyment.

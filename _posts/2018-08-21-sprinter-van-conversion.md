@@ -3,6 +3,7 @@ layout: post
 permalink: /sprinter-van-conversion/
 title: "Sprinter Van Conversion"
 date: "2018-08-21"
+comments: true
 categories: 
   - "van-builds"
 ---

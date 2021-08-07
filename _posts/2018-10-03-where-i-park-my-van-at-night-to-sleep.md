@@ -4,6 +4,7 @@ youtubeId: S51ro3MkQZ8
 permalink: /where-i-park-my-van-at-night-to-sleep/
 title: "Where I Park My Van At Night To Sleep"
 date: "2018-10-03"
+comments: true
 categories: 
   - "van-life"
 ---

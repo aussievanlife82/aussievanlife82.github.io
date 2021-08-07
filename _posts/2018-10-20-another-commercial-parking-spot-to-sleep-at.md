@@ -4,6 +4,7 @@ youtubeId: ZuyohoX58Nw
 permalink: /another-commercial-parking-spot-to-sleep-at/
 title: "Another Commercial Parking Spot To Sleep At"
 date: "2018-10-20"
+comments: true
 categories: 
   - "van-life"
 ---
