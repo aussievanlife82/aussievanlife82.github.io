@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="row align-items-start">
+        {% for resource in site.data.resources %}
+        <div class="col col-sm-12 col-md-6 col-lg-4 mb-2">
+            <div class="card" style="min-width: 18rem;">
+                <div class="card-body">
+                    {% if resource.image %}
+                    <img src="{{ resource.image }}" class="card-img-top" alt="{{ resource.title }} image">
+                    {% endif %}
+                    <h5 class="card-title text-center">{{ resource.title }}</h5>
+                    {% if resource.sub-title %}
+                    <h6 class="card-subtitle text-center mb-2 text-muted">{{ resource.sub-title }}</h6>
+                    {% endif %}
+                    {% if resource.description %}
+                    <p class="card-text">{{ resource.description }}</p>
+                    {% endif %}
+                    <div class="text-center">
+                        {% if resource.website %}
+                        <a href="{{ resource.website }}" class="btn btn-primary" target="_blank">Website</a>
+                        {% endif %}
+                        {% if resource.youtube %}
+                        <a href="{{ resource.youtube }}" class="btn btn-danger" target="_blank">YouTube</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
