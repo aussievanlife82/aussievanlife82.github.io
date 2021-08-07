@@ -12,7 +12,8 @@ layout: default
     </div> 
     <div class="book-list">
         <h2>Books About Van Life and Alternative Life Styles</h2>
-        {% include book-cards.html %}
+        {% include book-cards.html limit=6 %}
+        {% include bootstrap-button.html link="/books-about-van-life-and-alternative-living" type="primary" text="See More Books" %}
     </div> 
 </div> 
 <article>
