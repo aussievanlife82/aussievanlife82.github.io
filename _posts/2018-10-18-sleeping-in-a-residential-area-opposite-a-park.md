@@ -7,6 +7,7 @@ date: "2018-10-18"
 comments: true
 categories: 
   - "van-life"
+  - "getting-started-in-van-life"
 ---
 
 This is a video showing where I slept in a residential area opposite a park.

@@ -7,4 +7,5 @@ date: "2018-10-10"
 comments: true
 categories: 
   - "places-to-visit"
+  - "van-life"
 ---

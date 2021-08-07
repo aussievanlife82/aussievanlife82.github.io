@@ -6,6 +6,7 @@ date: "2018-08-21"
 comments: true
 categories: 
   - "van-builds"
+  - "getting-started-in-van-life"
 ---
 
 This page shows some of the highlights of my Mercedes Benz Sprinter Van Conversion.

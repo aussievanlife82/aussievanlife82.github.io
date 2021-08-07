@@ -7,4 +7,5 @@ date: "2018-10-24"
 comments: true
 categories: 
   - "van-life"
+  - "getting-started-in-van-life"
 ---

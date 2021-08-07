@@ -1,21 +1,14 @@
----
-layout: default
----
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-9">
-            <article>
-                {{ content }}
-            </article>
+        {% for post in include.category %}
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h6>{{ post.date }}</h6>
+            <p>{{ post.excerpt }}</p>
+        {% endfor %}
         </div>
         <div class="col-sm-12 col-md-3">
             {% include categories-sidebar.html %}
         </div>
     </div>
 </div>
-
-{% if page.comments %}
-<div class="m-4">
-    {% include disqus.html %}
-</div>
-{% endif %}

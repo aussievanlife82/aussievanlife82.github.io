@@ -7,5 +7,6 @@ date: "2019-01-21"
 comments: true
 categories: 
   - "van-life"
+  - "van-build"
 ---
 

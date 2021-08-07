@@ -7,6 +7,7 @@ date: "2018-10-03"
 comments: true
 categories: 
   - "van-life"
+  - "getting-started-in-van-life"
 ---
 
 In this video I show you a commercial area where I parked my van to go to sleep at night and some of my day before going to work.

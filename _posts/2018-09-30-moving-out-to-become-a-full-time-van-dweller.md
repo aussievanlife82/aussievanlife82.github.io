@@ -7,6 +7,7 @@ date: "2018-09-30"
 comments: true
 categories: 
   - "van-life"
+  - "getting-started-in-van-life"
 ---
 
 This is a video showing me moving out of my house and putting stuff in storage to become a full time van dweller.

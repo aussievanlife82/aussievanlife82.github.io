@@ -7,5 +7,6 @@ date: "2019-03-09"
 comments: true
 categories: 
   - "van-life"
+  - "working-in-the-van"
 ---
 
