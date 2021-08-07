@@ -1,0 +1,25 @@
+<div class="card" style="min-width: 18rem;">
+    <div class="card-body {{ include.class }}">
+        {% if include.image %}
+        <img src="{{ include.image }}" class="card-img-top" alt="{{ include.title }} image">
+        {% endif %}
+        <h5 class="card-title text-center">{{ include.title }}</h5>
+        {% if include.sub-title %}
+        <h6 class="card-subtitle text-center mb-2 text-muted">{{ include.sub-title }}</h6>
+        {% endif %}
+        {% if include.description %}
+        <p class="card-text">{{ include.description }}</p>
+        {% endif %}
+
+        {% if include.button %}
+            <div class="text-center">
+                    {% include bootstrap-button.html type="primary" text="Read More" link=include.button %}
+            </div>
+        {% endif %}
+        {% if include.button-new-window %}
+            <div class="text-center">
+                    {% include bootstrap-button.html type="primary" text="Read More" link=include.button-new-window new-window=true %}
+            </div>
+        {% endif %}
+    </div>
+</div>
