@@ -5,7 +5,7 @@ title: "Sprinter Van Conversion"
 date: "2018-08-21"
 comments: true
 categories: 
-  - "van-builds"
+  - "van-build"
   - "getting-started-in-van-life"
 ---
 
