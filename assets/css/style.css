@@ -63,6 +63,28 @@ article {
     padding: auto;
 }
 
+#rainbow-van-life {
+  padding-top: 300px;
+  background-color: black;
+  background-image: url("/assets/images/site/van-life-rainbow.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  min-height: 1000px;
+  border-top: 5px solid rgb(0, 100, 0);
+  color: white;
+
+}
+
+#rainbow-van-life-heading {
+  margin: auto;
+  padding: 25px;
+  width: 370px;
+  border-radius: 25px;
+  background-color: rgba(0,0,0,.7);
+}
+
+
 #footer {
     background-color: rgba(154,205, 50,.5);
     border-top: 5px solid rgb(0, 100, 0);
