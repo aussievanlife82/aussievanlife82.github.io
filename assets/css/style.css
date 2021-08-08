@@ -65,7 +65,7 @@ article {
 
 #footer {
     background-color: rgba(154,205, 50,.5);
-    border-top: 5px solid darkgreen;
+    border-top: 5px solid rgb(0, 100, 0);
     color: black;
 }
 
